@@ -1,2 +1,3 @@
 # krs-soft
-Software for KRS scripts
+Сюда будем складывать скрипты для проекта KRS
+
